@@ -18,12 +18,12 @@ const Education = () => {
           <ResumeCard
             title="BASc Computer Engineering (Honors)"
             subTitle="University of Waterloo (2023 - 2028)"
-            des="I've been able to work with many like-minded individuals in a very competitive program learning about computer fundamentals, software development, and po math."
+            des="I’ve had the opportunity to collaborate with like-minded individuals in a competitive program, where I learned about computer fundamentals, software development, and mathematical concepts applied in computing."
           />
           <ResumeCard
             title="Secondary School Education"
             subTitle="North Park Secondary School (2019-2023)"
-            des="Enrolled in a regional program called International Business and Technology where I gained exposure to how technology can be used in our daily lives."
+            des="I enrolled in a regional program called International Business and Technology, where I focused on academics related to tech."
           />
         </div>
       </div>
