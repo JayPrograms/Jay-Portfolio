@@ -1,6 +1,5 @@
 import React from "react";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
-import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
 
 const LeftBanner = () => {
   const [text] = useTypewriter({

@@ -25,12 +25,12 @@ const ContactLeft = () => {
       <div className="flex flex-col gap-4">
         <div className="flex gap-4">
           <span className="bannerIcon">
-            <a href="https://github.com/JayPrograms" target="_blank">
+            <a href="https://github.com/JayPrograms" target="_blank" rel="noopener noreferrer">
             <FaGithub />
             </a>
           </span>
           <span className="bannerIcon">
-            <a href="https://www.linkedin.com/in/jay-patel-02988b217/" target="_blank">
+            <a href="https://www.linkedin.com/in/jay-patel-02988b217/" target="_blank" rel="noopener noreferrer">
             <FaLinkedinIn />
             </a>
           </span>
