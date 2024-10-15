@@ -1,6 +1,5 @@
 import React from 'react'
-import { AiFillAppstore } from "react-icons/ai";
-import { FaDatabase, FaMobile, FaBrain, FaCalculator } from "react-icons/fa";
+import { FaDatabase, FaBrain, FaCalculator } from "react-icons/fa";
 import { FaCog } from "react-icons/fa";
 import { CgScreen } from "react-icons/cg";
 import { TbSettingsAutomation } from "react-icons/tb";
