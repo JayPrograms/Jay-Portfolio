@@ -16,7 +16,7 @@ const ContactLeft = () => {
           Feel free to contact with me at 
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">j4y.patel@uwaterloo.ca</span>
+          Email: <span className="text-lightText">jay.patel4@uwaterloo.ca</span>
         </p>
         <p className="text-base text-gray-400 tracking-wide">
           Find me at
