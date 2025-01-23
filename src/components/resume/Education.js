@@ -41,7 +41,7 @@ const Education = () => {
           <ResumeCard
             title="Software Developer"
             subTitle="IESO - (Sep 2024 - December 2024)"
-            des="Worked on the MAST application using SQL and Java (Apache Maven) maintain the application and develop the database."
+            des="Developed an application to support an ADCS Monitoring system and a SCOM endpoint using Java, Spring Boot, and Thymeleaf. Contributed towards the MAST application using SQL and Java (Apache Maven) maintain the application and develop the database."
           />
           
           <ResumeCard
