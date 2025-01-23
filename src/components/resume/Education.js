@@ -34,15 +34,16 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Software Developer"
-            subTitle="IESO - (Sep 2024 - Present)"
-            des="Worked on the MAST application using SQL and Java (Apache Maven) maintain the application and develop the database."
+            title="Lead Backend Developer"
+            subTitle="Wat Street - (Aug 2024 - Present)"
+            des="Spearheaded a 10+ developer team in building and optimizing a machine learning model training platform. Created and tested several Restful APIs using Flask, worked on the database of the services using Firebase."
           />
           <ResumeCard
-            title="Backend Developer"
-            subTitle="Watstreet - (Aug 2024 - Present)"
-            des="Created and tested several Restful APIs using Flask, worked on the database of the services using Firebase."
+            title="Software Developer"
+            subTitle="IESO - (Sep 2024 - December 2024)"
+            des="Worked on the MAST application using SQL and Java (Apache Maven) maintain the application and develop the database."
           />
+          
           <ResumeCard
             title="Software Engineering Intern"
             subTitle="Graze.ai - (Jan 2024 - Apr 2024)"
