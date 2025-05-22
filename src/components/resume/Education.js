@@ -34,6 +34,11 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
+            title="AI Software Engineering Intern"
+            subTitle="RamSoft - (May 2025 - Present)"
+            des="Built semantic search for Firebird schemas and optimized large-scale document ingestion into Azure AI Search using Python, Azure OpenAI, and CI/CD pipelines."
+          />
+          <ResumeCard
             title="Lead Backend Developer"
             subTitle="Wat Street - (Aug 2024 - Present)"
             des="Spearheaded a 10+ developer team in building and optimizing a machine learning model training platform. Created and tested several Restful APIs using Flask, worked on the database of the services using Firebase."
@@ -46,12 +51,12 @@ const Education = () => {
           
           <ResumeCard
             title="Software Engineering Intern"
-            subTitle="Graze.ai - (Jan 2024 - Apr 2024)"
+            subTitle="Graze Inc. - (Jan 2024 - Apr 2024)"
             des="Utilized Python Selenium, Scrapy, and Beautifulsoups to automate and optimize data gathering processes. Finetuned OLlama models to help with data classification."
           />
           <ResumeCard
             title="Full-Stack Developer"
-            subTitle="Innoxa Inc. - (Apr 2023 - Sep 2023)"
+            subTitle="Innovxa Inc. - (Apr 2023 - Sep 2023)"
             des="Developed features allowing for end-users to provide product requirements to the development teams using React.js, Node.js, Express.js using PostgreSQL for the database."
           />
         </div>
