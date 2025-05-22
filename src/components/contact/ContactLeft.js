@@ -13,7 +13,7 @@ const ContactLeft = () => {
       <div className="flex flex-col gap-4">
         <h3 className="text-3xl font-bold text-white">Jay Patel</h3>
         <p className="text-base text-gray-400 tracking-wide">
-          Feel free to contact with me at 
+          Feel free to contact me at 
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Email: <span className="text-lightText">jay.patel4@uwaterloo.ca</span>
